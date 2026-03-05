@@ -9,7 +9,8 @@ Aplicación web desarrollada con Vue 3 y Vuetify 3. Presenta una interfaz tipo p
 
 ## Captura de Pantalla
 
-![Captura de la Aplicación](./captura-de-pantalla.png)
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## Tecnologías Utilizadas
 
